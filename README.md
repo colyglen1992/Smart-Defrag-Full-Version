@@ -243,3 +243,6 @@ This repository serves as the official landing page for Smart Defrag. The softwa
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://IObit.com)
 
 **Get the most recent version of Smart Defrag today!**
+
+---
+**Last updated:** 2026-09-08 20:48:22 UTC
